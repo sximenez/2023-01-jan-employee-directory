@@ -24,6 +24,7 @@
 5. Defined models containing instructions to perform CRUD operations (_create, read, update, delete_).
 6. Implemented a Search function.
 7. Implemented a Dark mode function.
-8. ❗**Improvements**:
+8. Used dummy data and `sessionStorage/localStorage` for test purposes (no persistance layer defined).
+9. ❗**Improvements**:
    1. Refactor functions
    2. Refactor `fetch` functions using the `async/await` syntax.
