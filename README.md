@@ -1,6 +1,6 @@
 # Employee directory
 
-**Demo**: [sximenez.github.io/2023jan-employee-directory](https://sximenez.github.io/2023jan-employee-directory/)
+**Demo**: [sximenez.github.io/2023-01-jan-employee-directory](https://sximenez.github.io/2023-01-jan-employee-directory/)
 
 **Description**: Directory app for employee management (CRUD).
 
